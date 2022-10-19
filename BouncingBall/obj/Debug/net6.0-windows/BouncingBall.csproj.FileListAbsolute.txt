@@ -1,0 +1,17 @@
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\bin\Debug\net6.0-windows\BouncingBall.exe
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\bin\Debug\net6.0-windows\BouncingBall.deps.json
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\bin\Debug\net6.0-windows\BouncingBall.runtimeconfig.json
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\bin\Debug\net6.0-windows\BouncingBall.dll
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\bin\Debug\net6.0-windows\BouncingBall.pdb
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\obj\Debug\net6.0-windows\BouncingBall.csproj.AssemblyReference.cache
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\obj\Debug\net6.0-windows\BouncingBall.Form1.resources
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\obj\Debug\net6.0-windows\BouncingBall.csproj.GenerateResource.cache
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\obj\Debug\net6.0-windows\BouncingBall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\obj\Debug\net6.0-windows\BouncingBall.AssemblyInfoInputs.cache
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\obj\Debug\net6.0-windows\BouncingBall.AssemblyInfo.cs
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\obj\Debug\net6.0-windows\BouncingBall.csproj.CoreCompileInputs.cache
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\obj\Debug\net6.0-windows\BouncingBall.dll
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\obj\Debug\net6.0-windows\refint\BouncingBall.dll
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\obj\Debug\net6.0-windows\BouncingBall.pdb
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\obj\Debug\net6.0-windows\BouncingBall.genruntimeconfig.cache
+C:\Users\A Ibrahim\Desktop\BouncingBall\BouncingBall\obj\Debug\net6.0-windows\ref\BouncingBall.dll
